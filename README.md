@@ -1,0 +1,2 @@
+# Soletrar
+exercicio
